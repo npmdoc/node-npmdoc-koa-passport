@@ -1,4 +1,7 @@
-# api documentation for  [koa-passport (v3.0.0)](https://github.com/rkusa/koa-passport)  [![npm package](https://img.shields.io/npm/v/npmdoc-koa-passport.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-koa-passport) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-koa-passport.svg)](https://travis-ci.org/npmdoc/node-npmdoc-koa-passport)
+# npmdoc-koa-passport
+
+#### basic api documentation for  [koa-passport (v3.0.0)](https://github.com/rkusa/koa-passport)  [![npm package](https://img.shields.io/npm/v/npmdoc-koa-passport.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-koa-passport) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-koa-passport.svg)](https://travis-ci.org/npmdoc/node-npmdoc-koa-passport)
+
 #### Passport middleware for Koa
 
 [![NPM](https://nodei.co/npm/koa-passport.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/koa-passport)
@@ -70,7 +73,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "bin": {}
 }
 ```
 
